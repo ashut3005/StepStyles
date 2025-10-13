@@ -39,7 +39,7 @@ Shoe E-Commerce is a full-stack web application where users can browse, login, s
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/shoe-ecommerce.git
+git clone https://github.com/ashut3005/StepStyles.git
 ## How to Run
 1. Navigate to the project folder:
 ```bash
