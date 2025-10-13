@@ -31,8 +31,8 @@ Shoe E-Commerce is a full-stack web application where users can browse, login, s
 <img width="1892" height="867" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/3cb313be-15f1-443d-8505-d9b4ff8d32e8" />
 
 ## Future Enhancements
--Payment gateway integration
--Order history for users
+- Payment gateway integration
+- Order history for users
 -Admin panel for managing products
 -Product filtering and search
 
