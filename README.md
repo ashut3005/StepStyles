@@ -5,8 +5,7 @@ Shoe E-Commerce is a full-stack web application where users can browse, login, s
 ## Features
 - User authentication: login, signup, forget password
 - Browse and view products
-- Add products to cart
-- Responsive UI for desktop and mobile
+
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
@@ -33,8 +32,9 @@ Shoe E-Commerce is a full-stack web application where users can browse, login, s
 ## Future Enhancements
 - Payment gateway integration
 - Order history for users
--Admin panel for managing products
--Product filtering and search
+- Admin panel for managing products
+- Product filtering and search
+- Add Cart Feature
 
 ## How to Run
 1. Clone the repository:
