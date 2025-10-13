@@ -1,4 +1,4 @@
-# Shoe E-Commerce Project
+# StepStyles
 
 Shoe E-Commerce is a full-stack web application where users can browse, login, signup, reset password, and buy products (without payment integration).
 
